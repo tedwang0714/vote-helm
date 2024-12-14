@@ -17,8 +17,8 @@ RESULT:
   IMAGE: harbor.dong.devopsoffer.top/vote/vote
   TAG: latest
 VOTE:
-  IMAGE: tedwang0714/vote
+  IMAGE: lyzhang1999/vote
   TAG: env
 WORKER:
-  IMAGE: tedwang0714/worker
+  IMAGE: lyzhang1999/worker
   TAG: env
