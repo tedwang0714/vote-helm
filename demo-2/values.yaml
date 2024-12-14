@@ -14,8 +14,8 @@ OPTION:
   OPTION_A: "INFOQQ"
   OPTION_B: "GeekBang"
 RESULT:
-  IMAGE: harbor.dong.devopsoffer.top
-  TAG: env
+  IMAGE: harbor.dong.devopsoffer.top/vote/vote
+  TAG: latest
 VOTE:
   IMAGE: tedwang0714/vote
   TAG: env
